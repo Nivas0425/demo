@@ -1,3 +1,3 @@
 # demo
 
-my name is nivas
+i am learning git optimization
