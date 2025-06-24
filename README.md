@@ -1,3 +1,3 @@
 # demo
 
-i am learning git optimization
+its my 3rd attempt
